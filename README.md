@@ -3,7 +3,7 @@
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
-A responsive web page created in order to improve my flexbox abilities
+A responsive web page created in order to improve my css flexbox abilities
 
 ## ✔️ Technologies used : 
 
